@@ -69,6 +69,9 @@ This project demonstrates the deployment of a static HTML web app on AWS, levera
 4. Use Route 53 to associate the domain name with the deployed website.
 5. Monitor the system through AWS Console for scalability, fault tolerance, and overall health.
 
+## Additional Resources
+. AWS Documentation: EC2 User Guilds
+
 ## Conclusion
 
 This project showcases the implementation of a robust and scalable architecture on AWS for hosting a static HTML web app. The combination of various AWS services ensures high availability, security, and ease of management.
